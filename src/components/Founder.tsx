@@ -23,7 +23,7 @@ export default function Founder() {
           >
             <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow-2xl border border-white/5 bg-zinc-900">
               <img 
-                src="/input_file_0.png" 
+                src="/Eduflex-Global-/founder.jpg"
                 alt="Emdadur Rahman - Founder" 
                 className="w-full h-full object-cover transition-all duration-700 hover:scale-105"
                 referrerPolicy="no-referrer"
